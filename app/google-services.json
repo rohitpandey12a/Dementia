@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960704925013",
+    "project_id": "dementia-61d7d",
+    "storage_bucket": "dementia-61d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960704925013:android:fce1abc1ecf8b984fa73dc",
+        "android_client_info": {
+          "package_name": "com.example.dementia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960704925013-rg1ujd5n4j0j4bthem62kotbshmttrvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3OSol6hq8CyRTgnT9MMzlSec7me7RzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960704925013-rg1ujd5n4j0j4bthem62kotbshmttrvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
